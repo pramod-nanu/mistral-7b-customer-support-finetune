@@ -1,0 +1,4 @@
+version,uses {{placeholders}} %,says 'as an AI'/'no access' %,avg words,ideal avg words
+A plain,11.0,3.0,186,103
+B + instruction,19.0,0.0,200,103
+IDEAL,52.0,0.5,103,103

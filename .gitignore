@@ -1,0 +1,11 @@
+# Local Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Large raw screen recording (assets/demo.gif is the README version)
+*.mov

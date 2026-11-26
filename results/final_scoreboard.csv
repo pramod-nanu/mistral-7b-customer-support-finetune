@@ -1,0 +1,5 @@
+version,uses {{placeholders}} %,says 'as an AI'/'no access' %,invents contact details %,letter sign-off '[Your Name]' %,avg words
+A plain (before),11.0,3.0,3.0,4.5,186
+B + instruction (before),19.0,0.0,10.0,70.5,200
+C TRAINED (after),48.5,0.0,0.0,0.0,100
+IDEAL (target),52.0,0.5,0.5,0.0,103

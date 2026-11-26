@@ -1,0 +1,4 @@
+version,"ROUGE-L (wording, 0-1)",Meaning similarity (0-1)
+A plain (before),0.186,0.674
+B + instruction (before),0.222,0.703
+C TRAINED (after),0.454,0.875
